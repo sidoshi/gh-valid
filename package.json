@@ -1,7 +1,7 @@
 {
   "name": "gh-valid",
   "description": "Check if a GitHub token is valid and has the right scopes",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "dist/index.js",
   "license": "MIT",
   "files": [
